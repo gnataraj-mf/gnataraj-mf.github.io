@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://gnataraj-mf.github.io/al-folio/sitemap.xml
+Sitemap: https://gnataraj-mf.github.io/sitemap.xml
